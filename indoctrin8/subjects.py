@@ -6,7 +6,7 @@ class Person(object):
     """A person to be indoctrinated."""
 
     def __init__(self, name):
-        """Build a new MyClass.
+        """Build a new Person.
 
         Args:
             name (str): What the person likes to be called.
