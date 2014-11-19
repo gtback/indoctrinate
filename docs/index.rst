@@ -13,7 +13,7 @@ Use pip_:
 
 .. code-block:: bash
 
-    $ pip install cybox
+    $ pip install indoctrinate
 
 You might also want to consider using a virtualenv_.
 
