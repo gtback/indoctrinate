@@ -6,14 +6,32 @@
 Welcome to indoctrinate's documentation!
 ========================================
 
-Contents:
+Installation
+------------
+
+Use pip_:
+
+.. code-block:: bash
+
+    $ pip install cybox
+
+You might also want to consider using a virtualenv_.
+
+.. note::
+   I wouldn't recommend actually installing this, since it doesn't really do
+   anything!
+
+.. _pip: http://pip.readthedocs.org/
+.. _virtualenv: http://virtualenv.readthedocs.org/
+
+
+API Documentation
+-----------------
 
 .. toctree::
    :maxdepth: 2
 
    api/modules
-
-
 
 Indices and tables
 ==================
