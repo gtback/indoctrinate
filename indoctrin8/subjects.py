@@ -14,5 +14,5 @@ class Person(object):
         self.name = name
 
     def say_hello(self):
-        """Greets the Person, warmly."""
+        """Greet the Person, warmly."""
         print "Hello, %s" % self.name
